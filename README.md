@@ -1,1 +1,2 @@
-# MyCloudProject
+# LearningWebGL
+Experimenting with WebGL
